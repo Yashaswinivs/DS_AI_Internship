@@ -9,3 +9,16 @@ result_average = math_operations.average(numbers)
 
 print("2^10 =", result_power)
 print("Average =", result_average)
+
+
+
+
+
+
+
+
+
+
+
+
+
