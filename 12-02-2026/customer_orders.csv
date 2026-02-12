@@ -1,0 +1,9 @@
+order_id,customer_id,amount,quantity,status
+101,501,1200,2,Completed
+102,502,1500,1,Completed
+,503,1800,3,Pending
+104,504,,2,Completed
+105,505,900,,Cancelled
+101,501,1200,2,Completed
+106,506,2000,1,Completed
+,507,1700,2,Pending

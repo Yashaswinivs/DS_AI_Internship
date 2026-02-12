@@ -12,3 +12,4 @@ first_two = products.iloc[:2]
 print("Full Series:\n", products)
 print("\nPrice of Laptop:", laptop_price)
 print("\nFirst two products:\n", first_two)
+

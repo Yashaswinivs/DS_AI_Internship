@@ -3,6 +3,7 @@ import pandas as pd
 # Create the Series with missing values
 grades = pd.Series([85, None, 92, 45, None, 78, 55])
 
+
 # Identify missing values
 missing = grades.isnull()
 
