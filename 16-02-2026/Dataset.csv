@@ -1,0 +1,17 @@
+SquareFootage,Price,Location
+800,250000,Urban
+900,280000,Urban
+1000,310000,Urban
+1100,340000,Urban
+1200,370000,Urban
+1300,410000,Urban
+900,220000,Suburban
+1000,250000,Suburban
+1100,280000,Suburban
+1200,320000,Suburban
+1300,360000,Suburban
+800,180000,Rural
+900,200000,Rural
+1000,230000,Rural
+1100,260000,Rural
+1200,290000,Rural
